@@ -1,5 +1,5 @@
 # SplatFlow3D
-This repository contains the source code for our scene flow estimation work:
+This repository contains the source code for our scene flow estimation work.
 
 ## Note
 - The code is coming soon!
