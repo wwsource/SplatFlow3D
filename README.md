@@ -33,7 +33,7 @@ If you find our repository useful, please consider giving it a star ⭐ and citi
 
 ```bibtex
 @article{wang2026splatflow3d,
-  title={SplatFlow3D: Learning Scene Flow via 3D Motion Feature Splatting},
+  title={SplatFlow3D: Learning scene flow via 3D motion feature splatting},
   author={Wang, Bo and Zhenping Sun and Yu, Yang and Jian Li and Li Liu and Hu, Dewen},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2026},
