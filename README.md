@@ -9,6 +9,7 @@
 # SplatFlow3D: Learning Scene Flow via 3D Motion Feature Splatting
 This repository contains the source code for our paper:
 - SplatFlow3D: Learning Scene Flow via 3D Motion Feature Splatting (T-CSVT 2026)
+  ![](./asset/github_monkaa_20261110.jpg)
   - [x] We propose a novel two-frame method, SimpleFlow3D, which integrates dense information from the image plane and sparse information from the depth dimension in a decoupling-followed-by-coupling manner by hierarchically constructing the 3D motion feature. 
   - [x] We propose a new multi-frame method, SplatFlow3D, by combining the proposed backbone with a weight-sharing multi-frame framework. The framework unifies the first and non-first frame inference by constructing pseudo inputs. 
   - [x] The two methods achieve SOTA results on all mainstream scene flow datasets with minimal parameters. 
