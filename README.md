@@ -16,8 +16,7 @@ This repository contains the source code for our paper:
   - [x] Experiments show that SplatFlow3D improves occlusion handling, non-rigid motion estimation, and generalization to real-world scenes. 
 
 ## Updates
-- [2026.11.10] 📣 The code of SplatFlow3D is coming soon!
-- [2026.11.10] 📣 The paper of SplatFlow3D is coming soon!
+- [2026.11.17] 📣 The code of SplatFlow3D is coming soon!
 - [2026.11.04] 📣 The paper of SplatFlow3D is accepted by T-CSVT 2026!
 - [2023.08.23] 📣 Our method ranked **first** on the leaderboard of [Spring](https://spring-benchmark.org/sceneflow) Scene Flow.
 - [2023.02.23] 📣 Our method ranked **first** on the leaderboard of [KITTI](https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php) Scene Flow.
